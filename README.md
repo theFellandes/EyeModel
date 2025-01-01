@@ -29,3 +29,4 @@ The wheelchair is controlled using the eye movement. The eye movement is detecte
 
 ## Conclusion
 The project is successfully implemented and the wheelchair is controlled using the eye movement. The project is implemented using Python and Torch model. Utilized with Raspberry Pi 4.
+![e77933e0-3db6-47cd-ad77-ba1c5d7fdbf3.jpg](md-resources/e77933e0-3db6-47cd-ad77-ba1c5d7fdbf3.jpg)
